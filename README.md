@@ -1,6 +1,6 @@
 # xmass-tree
 ASCII xmass tree generator in C
-
+```
 Size: 5   
      
     A
@@ -8,7 +8,8 @@ Size: 5
   AAAA@
  AAAA@AA
     M
-
+```
+```
 Size: 20
                     
                    A
@@ -35,3 +36,4 @@ Size: 20
                    M
                    M
                    M
+```
