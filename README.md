@@ -1,5 +1,5 @@
-# xmass-tree
-ASCII xmass tree generator in C
+# xmas-tree
+ASCII xmas tree generator in C
 ```
 Size: 5   
      
